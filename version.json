@@ -1,5 +1,1 @@
-{
-  "version": "2.11.0",
-  "zip": "https://github.com/Etiennepik/monteur/releases/latest/download/monteur.zip",
-  "notes": "Onglet Audios, montage en série sans caption ou avec styles et emplacements variés, boutons « non utilisée"
-}
+{"version": "2.12.0", "zip": "https://github.com/Etiennepik/monteur/releases/latest/download/monteur.zip", "notes": "Onglet Audios avec découpe sur forme d'onde, montage calé sur le rythme, assortiment des captions au contenu des vidéos, repères de sécurité TikTok."}
