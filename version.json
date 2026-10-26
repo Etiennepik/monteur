@@ -1,1 +1,1 @@
-{"version": "2.13.0", "zip": "https://github.com/Etiennepik/monteur/releases/latest/download/monteur.zip", "notes": "Clé d'accès : Monteur ne s'ouvre que pour les personnes autorisées, et l'accès se retire à distance quand une mission est terminée."}
+{"version": "2.14.0", "zip": "https://github.com/Etiennepik/monteur/releases/latest/download/monteur.zip", "notes": "Mise à jour automatique au démarrage, interface revue, Post montage en quatre étapes, export muet en montage calé, téléchargement des extraits audio, bouton Copier dans les captions."}
